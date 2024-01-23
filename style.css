@@ -13,6 +13,9 @@ body {
 .picture3 {
     background: linear-gradient(180deg, #111 0%, rgba(31, 31, 33, 0.5) 0%),url("Images/4.png");
 }
-.link, .gray {
-    color: rgba(255, 255, 255, 0.60);;
+.gray {
+    color: rgba(255, 255, 255, 0.60);
+}
+.link {
+    color: rgba(255, 255, 255, 0.60);
 }
